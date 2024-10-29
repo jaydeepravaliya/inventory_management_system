@@ -69,7 +69,7 @@ You can now access the application at `http://127.0.0.1:8000/`
 
 ### Usage
 Once the server is running, you can:
-- Access the admin panel at '/admin/' to manage products, categories, and suppliers.
+- Access the admin panel at `/admin/` to manage products, categories, and suppliers.
 - Use the RESTful API endpoints for integration with front-end applications.
 
 ### API Endpoints
